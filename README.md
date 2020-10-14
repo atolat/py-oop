@@ -1,4 +1,4 @@
-## Implementing Patterns from Head First Design Patterns in Python
+## Tracker
 
 - [x] Strategy
 - [x] Observer
