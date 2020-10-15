@@ -114,9 +114,7 @@ class VeggiePizza(Pizza):
         self._toppings.append("Sliced black olives")
 
 
-###############################################################################
-# Simulation
-###############################################################################
+# Driver
 
 if __name__ == '__main__':
     factory = SimplePizzaFactory()
