@@ -219,7 +219,7 @@ class ChicagoStyleVeggiePizza(Pizza):
         print("Cutting the pizza into square slices")
 
 
-# Driver
+# Driver Code
 if __name__ == '__main__':
     nyStore = NYPizzaStore()
     chicagoStore = ChicagoPizzaStore()
