@@ -3,7 +3,7 @@
 - [x] Strategy
 - [x] Observer
 - [x] Decorator
-- [ ] Factory
+- [x] Factory
 - [ ] Singleton
 - [ ] Command
 - [ ] Adapter
