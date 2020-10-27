@@ -4,7 +4,7 @@
 - [x] Observer
 - [x] Decorator
 - [x] Factory
-- [ ] Singleton
+- [x] Singleton
 - [ ] Command
 - [ ] Adapter
 - [ ] Facade
